@@ -1,0 +1,70 @@
+.Buttomtra:hover  {
+background-color:rgba(244, 65, 0, 0.773);
+transform: scale(1.1);
+}
+.recipespage{
+background-image: url(picture//pexels-nicole-michalou-6061399\ copy.jpg); 
+background-size: cover;
+}
+a{
+text-decoration: none;
+color: black;
+font-weight: bold;
+font-size:small;
+}
+.D{
+flex: 1;
+background-color: rgba(248, 248, 255, 0.537);
+width: 200px;
+margin-right: 80px;
+border-radius: 20px;
+height: 460px;
+margin-top: 90px;
+}
+.Dimg{
+width: 270px;
+padding: 20px;
+margin: 15px;
+margin-left: 5px;
+margin-top: -5px;
+border-radius: 15%;
+}
+.Ddiscib{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    text-align: center;
+}
+.B{
+    border-radius: 10px;
+        border: none;
+        width: 170px;
+        height: 35px;
+        cursor: pointer;
+        font-size: 14px;
+        margin-left: 70px;
+        background-color: rgba(159, 111, 72, 0.751);
+        margin-top: 5px;
+        color: rgba(20, 18, 18, 0.707);
+}
+.B:hover{
+    background-color:rgba(244, 65, 0, 0.773);
+    transform: scale(1.1);
+}
+.recipepage{
+background-color:rgb(229, 219, 206);
+}
+.t{
+    color: rgba(94, 41, 41, 0.878);
+}
+.steps{
+    width: 500px;
+    margin-top: 20px;
+}
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(144, 127, 102, 0.74);
+
+}
